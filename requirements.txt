@@ -1,0 +1,12 @@
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.21.0
+chromadb==0.4.15
+langchain==0.0.249
+flask>=2.3.0
+GitPython>=3.1.0
+python-dotenv>=1.0.0
+pypdf2>=3.0.0
+huggingface-hub>=0.16.0
+accelerate>=0.21.0
